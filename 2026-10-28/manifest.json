@@ -1,0 +1,243 @@
+{
+  "date": "2026-10-29",
+  "archived_images": [
+    {
+      "repo": "heroquest",
+      "path": "ChatGPT Image 15. Juli 2026, 13_34_26.png",
+      "sha": "1580a26006e5a8d8aa45bbb11da155567264add5",
+      "size": 2816013,
+      "source_commit": "765c8e2f89d7be40fbfd2ed61b5520f19d22f4a4"
+    },
+    {
+      "repo": "heroquest",
+      "path": "ChatGPT Image 15. Juli 2026, 14_16_05.png",
+      "sha": "06810e958d33aa88d2f2d307fce1533bda7c7c1a",
+      "size": 3040677,
+      "source_commit": "765c8e2f89d7be40fbfd2ed61b5520f19d22f4a4"
+    },
+    {
+      "repo": "heroquest",
+      "path": "ChatGPT Image 15. Juli 2026, 18_17_58.png",
+      "sha": "273094c83bd8248a648101ec3e9f630515076997",
+      "size": 2303120,
+      "source_commit": "765c8e2f89d7be40fbfd2ed61b5520f19d22f4a4"
+    },
+    {
+      "repo": "heroquest",
+      "path": "ChatGPT Image 16. Juli 2026, 14_14_49.png",
+      "sha": "24e96589e2f11fdeb488e3677e00a2766ef48a23",
+      "size": 2801822,
+      "source_commit": "765c8e2f89d7be40fbfd2ed61b5520f19d22f4a4"
+    },
+    {
+      "repo": "heroquest",
+      "path": "ChatGPT Image 16. Juli 2026, 14_16_00.png",
+      "sha": "273094c83bd8248a648101ec3e9f630515076997",
+      "size": 2303120,
+      "source_commit": "765c8e2f89d7be40fbfd2ed61b5520f19d22f4a4"
+    },
+    {
+      "repo": "heroquest",
+      "path": "ChatGPT Image 16. Juli 2026, 14_26_56.png",
+      "sha": "d92e3e38467c37366e240bb9255324892ab39c37",
+      "size": 3259478,
+      "source_commit": "765c8e2f89d7be40fbfd2ed61b5520f19d22f4a4"
+    },
+    {
+      "repo": "heroquest",
+      "path": "ChatGPT Image 16. Juli 2026, 14_34_57.png",
+      "sha": "1beb632748cf6248754990e1181047f375c6e0f9",
+      "size": 2450107,
+      "source_commit": "765c8e2f89d7be40fbfd2ed61b5520f19d22f4a4"
+    },
+    {
+      "repo": "heroquest",
+      "path": "ChatGPT Image 16. Juli 2026, 14_53_43.png",
+      "sha": "e1201a3c42b24302717bc46f58bdd81a32ea3833",
+      "size": 2555858,
+      "source_commit": "765c8e2f89d7be40fbfd2ed61b5520f19d22f4a4"
+    },
+    {
+      "repo": "heroquest",
+      "path": "ChatGPT Image 16. Juli 2026, 14_55_28.png",
+      "sha": "39a92bfa7efba64a852bf8dfa37cb63a7b583511",
+      "size": 2364358,
+      "source_commit": "765c8e2f89d7be40fbfd2ed61b5520f19d22f4a4"
+    },
+    {
+      "repo": "heroquest",
+      "path": "ChatGPT Image 16. Juli 2026, 14_57_57.png",
+      "sha": "6f70d374d7684bb2ccd8e320efa26923ec859c7e",
+      "size": 2507822,
+      "source_commit": "765c8e2f89d7be40fbfd2ed61b5520f19d22f4a4"
+    },
+    {
+      "repo": "heroquest",
+      "path": "ChatGPT Image 16. Juli 2026, 15_05_12.png",
+      "sha": "baf03f8d2a79ecc329dd97928f06b732c5a9effa",
+      "size": 2681548,
+      "source_commit": "765c8e2f89d7be40fbfd2ed61b5520f19d22f4a4"
+    },
+    {
+      "repo": "heroquest",
+      "path": "ChatGPT Image 19. Juli 2026, 10_04_01.png",
+      "sha": "72d5fe33ad1bd837f3c50ca762255f4b7ebf0988",
+      "size": 2833012,
+      "source_commit": "765c8e2f89d7be40fbfd2ed61b5520f19d22f4a4"
+    },
+    {
+      "repo": "heroquest",
+      "path": "ChatGPT Image 26. Juli 2026, 09_31_35.png",
+      "sha": "dac79f06dccc47e67267172ed541180f7c3abccb",
+      "size": 2894873,
+      "source_commit": "765c8e2f89d7be40fbfd2ed61b5520f19d22f4a4"
+    },
+    {
+      "repo": "heroquest",
+      "path": "ChatGPT Image 26. Juli 2026, 09_38_05.png",
+      "sha": "6d08434a01c5d73977bdba5beab22d2eb7da6140",
+      "size": 2833793,
+      "source_commit": "765c8e2f89d7be40fbfd2ed61b5520f19d22f4a4"
+    },
+    {
+      "repo": "heroquest",
+      "path": "ChatGPT Image 26. Juli 2026, 09_46_34.png",
+      "sha": "1941c4db62804796882203480206217d9d90eb45",
+      "size": 2980357,
+      "source_commit": "765c8e2f89d7be40fbfd2ed61b5520f19d22f4a4"
+    },
+    {
+      "repo": "heroquest",
+      "path": "ChatGPT Image 26. Juli 2026, 09_57_31.png",
+      "sha": "8a558bee7744e0054daea32d83ed6086352b1bdd",
+      "size": 3353920,
+      "source_commit": "765c8e2f89d7be40fbfd2ed61b5520f19d22f4a4"
+    },
+    {
+      "repo": "heroquest",
+      "path": "ChatGPT Image 26. Juli 2026, 10_52_19.png",
+      "sha": "aed12178719817fe5fbfdce60a4ccb9623de156a",
+      "size": 2770859,
+      "source_commit": "765c8e2f89d7be40fbfd2ed61b5520f19d22f4a4"
+    },
+    {
+      "repo": "heroquest",
+      "path": "ChatGPT Image 27. Juli 2026, 14_28_18.png",
+      "sha": "cd6f9e4a99910c69b22ff5f94263f2339837e36d",
+      "size": 2517034,
+      "source_commit": "765c8e2f89d7be40fbfd2ed61b5520f19d22f4a4"
+    },
+    {
+      "repo": "heroquest",
+      "path": "ChatGPT Image 27. Juli 2026, 14_39_07.png",
+      "sha": "ba5f68991a29efaf6473f5315925d848689dec52",
+      "size": 3016101,
+      "source_commit": "765c8e2f89d7be40fbfd2ed61b5520f19d22f4a4"
+    },
+    {
+      "repo": "heroquest",
+      "path": "bf2b9f6b-081d-430a-9b06-f9142c7e810b.png",
+      "sha": "daf17eabb2af7bd3bbc9cc376fdda35fc1df1908",
+      "size": 2624274,
+      "source_commit": "765c8e2f89d7be40fbfd2ed61b5520f19d22f4a4"
+    },
+    {
+      "repo": "jitd",
+      "path": "ChatGPT Image 28. Juli 2026, 10_22_45.png",
+      "sha": "a3c0f4102355add3ee594069a23104a0ba3f9ed8",
+      "size": 2411271,
+      "source_commit": "871f288b555bf2c802320412d100563f774431d8"
+    },
+    {
+      "repo": "jitd",
+      "path": "ChatGPT Image 28. Juli 2026, 10_41_17.png",
+      "sha": "688db01613ffcee3a487a853dbdd0d841fa7ee6a",
+      "size": 2319382,
+      "source_commit": "871f288b555bf2c802320412d100563f774431d8"
+    },
+    {
+      "repo": "jitd",
+      "path": "ChatGPT Image 28. Juli 2026, 10_49_50.png",
+      "sha": "ed141bb5f065ecb658df69c88a1ba61f677e3f66",
+      "size": 2462881,
+      "source_commit": "871f288b555bf2c802320412d100563f774431d8"
+    },
+    {
+      "repo": "jitd",
+      "path": "ChatGPT Image 28. Juli 2026, 11_49_48.png",
+      "sha": "9b6229e39e47e9ace9a89a135edbf1b48e04677b",
+      "size": 2517730,
+      "source_commit": "871f288b555bf2c802320412d100563f774431d8"
+    },
+    {
+      "repo": "jitd",
+      "path": "ChatGPT Image 30. Juli 2026, 11_35_43.png",
+      "sha": "e484ec43be3473c734963db09af1ff986da14c53",
+      "size": 2349788,
+      "source_commit": "871f288b555bf2c802320412d100563f774431d8"
+    },
+    {
+      "repo": "Supplements",
+      "path": "447d01be-b79a-431e-bd17-3cf46ca109e1.png",
+      "sha": "c82aa953adc21b83e543ee69ded868d9d616ffb6",
+      "size": 2829953,
+      "source_commit": "89deab33cd773a3b34b45ce27490b695a9cb330c"
+    },
+    {
+      "repo": "Supplements",
+      "path": "ChatGPT Image 31. Juli 2026, 11_59_17.png",
+      "sha": "645cfcb4c0cc0e50d86467a964b812a40cb64a0f",
+      "size": 2456495,
+      "source_commit": "89deab33cd773a3b34b45ce27490b695a9cb330c"
+    },
+    {
+      "repo": "Supplements",
+      "path": "ChatGPT Image 31. Juli 2026, 12_02_01.png",
+      "sha": "7441a582183913e97eb976fc967b4200fb4580a4",
+      "size": 2573947,
+      "source_commit": "89deab33cd773a3b34b45ce27490b695a9cb330c"
+    },
+    {
+      "repo": "Supplements",
+      "path": "ChatGPT Image 31. Juli 2026, 12_10_04.png",
+      "sha": "c805f21e5a3e7b10e1d910bd084abcab1d0d418f",
+      "size": 2549909,
+      "source_commit": "89deab33cd773a3b34b45ce27490b695a9cb330c"
+    },
+    {
+      "repo": "Supplements",
+      "path": "ChatGPT Image 31. Juli 2026, 12_12_46.png",
+      "sha": "c866bb1535149fb14fe8e9dc56a8c02f875c4938",
+      "size": 2596850,
+      "source_commit": "89deab33cd773a3b34b45ce27490b695a9cb330c"
+    },
+    {
+      "repo": "Supplements",
+      "path": "ChatGPT Image 31. Juli 2026, 12_18_44.png",
+      "sha": "13913ef75a68bf6de70e1d040a7663ac0767097e",
+      "size": 2103167,
+      "source_commit": "89deab33cd773a3b34b45ce27490b695a9cb330c"
+    },
+    {
+      "repo": "Supplements",
+      "path": "c13812af-80ae-4474-accf-4f26304dc5da.png",
+      "sha": "502f57af317d452722c46c21e0f2b29ada5b5203",
+      "size": 2665792,
+      "source_commit": "89deab33cd773a3b34b45ce27490b695a9cb330c"
+    },
+    {
+      "repo": "Supplements",
+      "path": "d14969cb-115a-407d-95f8-e66405cfd789.png",
+      "sha": "9a9829945b9aa0dbf7a1ed73cf62b5771da2b842",
+      "size": 2941716,
+      "source_commit": "89deab33cd773a3b34b45ce27490b695a9cb330c"
+    },
+    {
+      "repo": "Supplements",
+      "path": "d8922d53-6ca0-46dd-b460-01aff5ac4cf0.png",
+      "sha": "5e3528b8777645a83fa20674e56db352540aed15",
+      "size": 2876699,
+      "source_commit": "89deab33cd773a3b34b45ce27490b695a9cb330c"
+    }
+  ]
+}
